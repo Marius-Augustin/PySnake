@@ -20,15 +20,15 @@ The project can launched in the same way as a simple Python script.
 
 ### Menu
 
-The minimalist Menu, implemented as a class, enables the user to initiate or exit the game utilizing the available buttons.
+The minimalist Menu, implemented as a class, enables the user to initiate or exit the game utilizing the available buttons (Play, Exit).
 
-![](Assets/SS1.png)
+![](Assets/Menu.png)
 
 ### Gameplay
 
 The rules of the game are similiar with the Classic Snake game. The user must collect as many fruits as possible, avoiding the Walls or Snake's body. A small Gameplay Preview can be seen:
 
-https://github.com/Marius-Augustin/PySnake/assets/155396684/a4d5b592-cd23-4cf9-87da-c4eb347e0ecd
+https://github.com/Marius-Augustin/PySnake/assets/155396684/c1770685-b3b8-4066-8035-770a76c1d2cb
 
 ### Further Notes
 
